@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CompassText">
+        <item name="android:textColor">@color/green</item>
+        <item name="fontFamily">@font/lato_black</item>
+    </style>
+
+    <style name="CompassBackground" parent="CompassText">
+        <item name="android:background">@drawable/background</item>
+    </style>
+
+    <style name="LataRegularTextAppearance">
+        <item name="font">@font/lato_regular</item>
+    </style>
+</resources>

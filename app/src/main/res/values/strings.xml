@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CompassApp</string>
+    <string name="latitude">LATITUDE</string>
+    <string name="longitude">LONGITUDE</string>
+    <string name="set_destination">SET DESTINATION</string>
+    <string name="destination_coordinates">SET YOUR DESTINATION</string>
+    <string name="set_button">SET</string>
+</resources>
